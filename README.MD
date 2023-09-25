@@ -10,12 +10,6 @@ GO GP offers advantageous services to both travelers looking to monetize their j
 
 This documentation provides a comprehensive guide on the installation, configuration, usage, and key features of the application's frontend.
 
-## Development Team
-
-- [Boubacar Traore](https://github.com/btboubacar)
-- [Nassim Segura](https://github.com/NassimSEGURA)
-- [Maria Munoz](https://github.com/munozmaria)
-- [Lucas Bolivard](https://github.com/Lucsbol)
 
 ## Technologies Used
 
