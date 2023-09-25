@@ -1,4 +1,9 @@
-# GO-GP Mobile Application Frontend
+# GO-GP Mobile Application 
+
+
+## Maria Munoz
+
+I have had the privilege of working on this project in a professional capacity, and I'm excited to introduce the GO GP mobile application frontend to you! 🚀🚀
 
 ## Description
 
