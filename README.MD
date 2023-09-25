@@ -103,18 +103,18 @@ Follow these steps to use the application's features:
 3. **In-App Payment**:
 
    - To make a payment within the application, follow these steps:
-   1. Click on the "plane" icon ✈️ at the bottom of the screen to access posted shipping listings.
-   2. Select the package listing you wish to pick up.
-   3. Calculate the shipping price based on the specified conditions.
-   4. Finally, proceed with payment using the integrated secure options.
+        1. Click on the "plane" icon ✈️ at the bottom of the screen to access posted shipping listings.
+        2. Select the package listing you wish to pick up.
+        3. Calculate the shipping price based on the specified conditions.
+        4. Finally, proceed with payment using the integrated secure options.
 
 4. **Communicate with the Carrier:**:
 
    - To establish direct communication with the carrier or sender and facilitate coordination throughout the process, follow these steps:
-    1. Click on a listing that interests you to navigate to the detailed listing screen.
-    2. Click the "send a message to ..." button; this will take you directly to the in-app messaging.
-    3. Use the integrated messaging to exchange messages with the carrier or sender and clarify essential shipping details.
-    4. Click on the "message" 💬 tab at the bottom of the screen, in the corresponding tab, to view all the people you've been in contact with and also find your messages and conversations.
+        1. Click on a listing that interests you to navigate to the detailed listing screen.
+        2. Click the "send a message to ..." button; this will take you directly to the in-app messaging.
+        3. Use the integrated messaging to exchange messages with the carrier or sender and clarify essential shipping details.
+        4. Click on the "message" 💬 tab at the bottom of the screen, in the corresponding tab, to view all the people you've been in contact with and also find your messages and conversations.
 
 5. **Messaging Features**:
 
